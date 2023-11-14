@@ -1,12 +1,3 @@
-$background-color: rgb(218, 170, 14);
-$color-white: rgb(255, 255, 255);
-$color-grey-light: rgb(212, 213, 216);
-$color-black: rgb(49, 49, 48);
-
-$font-stack: Arial, Helvetica, Sans-Serif;
-$font-cursive: 'Sacramento', cursive;
-
-
 /*
 $color-green-light: rgb(127, 236, 55);
 $color-green-bright: rgb(170, 240, 113);
@@ -21,3 +12,5 @@ $secondary-color: #FFF5EE; // example light cream color
 $text-color: #333; // dark gray for text
 $button-color: #FFD700; // example gold color
 */
+
+/*# sourceMappingURL=colors.css.map */

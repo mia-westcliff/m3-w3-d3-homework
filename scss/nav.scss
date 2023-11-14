@@ -1,1 +1,21 @@
-/* Nest Nav */
+// nav.scss
+@import 'colors';
+
+nav {
+    padding-top: 1em;
+    color: $color-white;
+    ul {
+      list-style-type: none;
+      li {
+        display: inline;
+        a {
+          text-decoration: none;
+          color: $color-white;
+  
+          &:hover {
+            color: darken($color-grey-light, 10%);
+          }
+        }
+      }
+    }
+  }
